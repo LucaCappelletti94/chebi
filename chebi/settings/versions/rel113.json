@@ -1,0 +1,46 @@
+{
+    "version": "rel113",
+    "year": 2016,
+    "month": 2,
+    "day": 3,
+    "inchikeys": {
+        "all": "https://ftp.ebi.ac.uk/pub/databases/chebi/archive/rel113/Flat_file_tab_delimited/chebiId_inchi.tsv",
+        "three_stars": "https://ftp.ebi.ac.uk/pub/databases/chebi/archive/rel113/Flat_file_tab_delimited/chebiId_inchi_3star.tsv"
+    },
+    "chemical_data": {
+        "all": "https://ftp.ebi.ac.uk/pub/databases/chebi/archive/rel113/Flat_file_tab_delimited/chemical_data.tsv",
+        "three_stars": "https://ftp.ebi.ac.uk/pub/databases/chebi/archive/rel113/Flat_file_tab_delimited/chemical_data_3star.tsv"
+    },
+    "comments": {
+        "all": "https://ftp.ebi.ac.uk/pub/databases/chebi/archive/rel113/Flat_file_tab_delimited/comments.tsv",
+        "three_stars": "https://ftp.ebi.ac.uk/pub/databases/chebi/archive/rel113/Flat_file_tab_delimited/comments_3star.tsv"
+    },
+    "compound_origins": {
+        "all": "https://ftp.ebi.ac.uk/pub/databases/chebi/archive/rel113/Flat_file_tab_delimited/compound_origins.tsv",
+        "three_stars": "https://ftp.ebi.ac.uk/pub/databases/chebi/archive/rel113/Flat_file_tab_delimited/compound_origins_3star.tsv"
+    },
+    "compounds": {
+        "all": "https://ftp.ebi.ac.uk/pub/databases/chebi/archive/rel113/Flat_file_tab_delimited/compounds.tsv",
+        "three_stars": "https://ftp.ebi.ac.uk/pub/databases/chebi/archive/rel113/Flat_file_tab_delimited/compounds_3star.tsv"
+    },
+    "database_accession": {
+        "all": "https://ftp.ebi.ac.uk/pub/databases/chebi/archive/rel113/Flat_file_tab_delimited/database_accession.tsv",
+        "three_stars": "https://ftp.ebi.ac.uk/pub/databases/chebi/archive/rel113/Flat_file_tab_delimited/database_accession_3star.tsv"
+    },
+    "names": {
+        "all": "https://ftp.ebi.ac.uk/pub/databases/chebi/archive/rel113/Flat_file_tab_delimited/names.tsv",
+        "three_stars": "https://ftp.ebi.ac.uk/pub/databases/chebi/archive/rel113/Flat_file_tab_delimited/names_3star.tsv"
+    },
+    "reference": {
+        "all": "https://ftp.ebi.ac.uk/pub/databases/chebi/archive/rel113/Flat_file_tab_delimited/reference.tsv",
+        "three_stars": "https://ftp.ebi.ac.uk/pub/databases/chebi/archive/rel113/Flat_file_tab_delimited/reference_3star.tsv"
+    },
+    "relation": {
+        "all": "https://ftp.ebi.ac.uk/pub/databases/chebi/archive/rel113/Flat_file_tab_delimited/relation.tsv",
+        "three_stars": "https://ftp.ebi.ac.uk/pub/databases/chebi/archive/rel113/Flat_file_tab_delimited/relation_3star.tsv"
+    },
+    "structures": {
+        "all": "https://ftp.ebi.ac.uk/pub/databases/chebi/archive/rel113/Flat_file_tab_delimited/structures.csv",
+        "three_stars": "https://ftp.ebi.ac.uk/pub/databases/chebi/archive/rel113/Flat_file_tab_delimited/structures_3star.csv"
+    }
+}
